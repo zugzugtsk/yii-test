@@ -231,3 +231,5 @@ vendor/bin/codecept run functional,unit -- --coverage-html --coverage-xml
 ```
 
 You can see code coverage output under the `tests/_output` directory.
+
+<p>Once it was a PHP test-task. And some day it will shine, but not today :)</p>
